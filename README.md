@@ -1,4 +1,4 @@
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/no1cx6yq1701r252j88c.png)
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wncfykwhtlbiobptlqgu.png)
 
 ## The problem
 JavaScript has a limitation it only allows precision of about 16 digits for the number format.

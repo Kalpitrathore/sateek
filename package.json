@@ -1,6 +1,6 @@
 {
   "name": "sateek",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Precise arithmetic calculation library for extremely large integers",
   "main": "app.js",
   "scripts": {
